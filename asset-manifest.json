@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/a11y-airline/static/css/main.0c672517.css",
+    "main.js": "/a11y-airline/static/js/main.0918f88c.js",
+    "index.html": "/a11y-airline/index.html",
+    "main.0c672517.css.map": "/a11y-airline/static/css/main.0c672517.css.map",
+    "main.0918f88c.js.map": "/a11y-airline/static/js/main.0918f88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c672517.css",
+    "static/js/main.0918f88c.js"
+  ]
+}
